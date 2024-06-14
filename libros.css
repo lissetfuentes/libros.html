@@ -1,0 +1,37 @@
+body {
+
+background-image: url(book.jpg);
+
+}
+
+h1 { 
+
+	text-align: center;
+
+	font-size: 300%;
+    
+    color: black;
+
+
+ }
+
+ h2 { 
+
+	text-align: center;
+
+	font-size: 200%;
+
+	color: black;
+
+ }
+
+option {
+
+	
+}
+
+button {
+	text-align: center;
+	padding: ;
+	font-size: 100%;
+}
